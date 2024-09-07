@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityambati&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityambati&theme=midnight-purple&hide_border=true" width="49%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityambati&theme=midnight-purple&hide_border=true" width="49%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityambati&layout=compact&theme=midnight-purple&hide_border=true" width="49%">
 </div>
