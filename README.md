@@ -4,7 +4,7 @@
 - 🎓 I’m currently pursuing a B.Sc in Data Science at **IIT Madras**.
 - 👀 I’m passionate about programming and data science.
 - 🌱 I’m continuously learning and exploring new technologies.
-- 📧 Reach me 21f3000274@ds.study.iitm.ac.in
+- 📧 Reach me at 21f3000274@ds.study.iitm.ac.in
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ambati-611404257/)
