@@ -14,9 +14,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adityambati&theme=midnight-purple&hide_border=true" width="49%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityambati&theme=midnight-purple&hide_border=true" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityambati&layout=compact&theme=midnight-purple&hide_border=true" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=adityambati&theme=midnight-purple&hide_border=false" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityambati&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityambati&theme=midnight-purple&hide_border=false" width="49%">
 </div>
 
 ## 🛠️ Technologies & Tools:
