@@ -44,4 +44,4 @@
 - **Library Management System - V2:** A multi-user app for managing e-books reminder notifications and perodic report generation, built with Flask, Vue.js, Celery and Redis.
 - **Automated Reporting System:** Implemented an automated system for generating and sending monthly activity reports.
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=:%20)&fontAlign=70&fontAlignY=50&color=gradient&section=footer&fontSize=40)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=O_O&fontAlign=70&fontAlignY=50&color=gradient&section=footer&fontSize=40)
