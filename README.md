@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%20Adii%20here!&fontAlign=70&fontAlignY=40&color=gradient&section=header&fontSize=40)
 
-<img src="https://media.giphy.com/media/Ph0oIVQeuvh0k/giphy.gif" width="400"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5lZGtyM3ZsczVmbWlrN2JmdHZ5NTNoaGM2ZnE0bXVhNXJobGVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif" width="400"/>
 
 ## 👋 Hi, I'm Aditya Ambati!
 - 🎓 I’m currently pursuing a B.S in Data Science at **IIT Madras**.
