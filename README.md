@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%20Adii%20here!&fontAlign=70&fontAlignY=40&color=gradient&section=header&fontSize=40)
 
-![Typing Code](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="400"/>
 
 ## 👋 Hi, I'm Aditya Ambati!
 - 🎓 I’m currently pursuing a B.S in Data Science at **IIT Madras**.
