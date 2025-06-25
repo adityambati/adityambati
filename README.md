@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%20Adii%20here!&fontAlign=70&fontAlignY=40&color=gradient&section=header&fontSize=40)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5lZGtyM3ZsczVmbWlrN2JmdHZ5NTNoaGM2ZnE0bXVhNXJobGVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif" width="400"/>
 
 ## 👋 Hi, I'm Aditya Ambati!
 - 🎓 I’m currently pursuing a B.S in Data Science at **IIT Madras**.
@@ -45,5 +44,7 @@
 - **Library Management System - V1:** A multi-user app for managing e-books, built with Flask, Python, SQLite, Jinja2 and Bootstrap.
 - **Library Management System - V2:** A multi-user app for managing e-books reminder notifications and perodic report generation, built with Flask, Vue.js, Celery and Redis.
 - **Automated Reporting System:** Implemented an automated system for generating and sending monthly activity reports.
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5lZGtyM3ZsczVmbWlrN2JmdHZ5NTNoaGM2ZnE0bXVhNXJobGVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif" width="400"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=O_O&fontAlign=70&fontAlignY=50&color=gradient&section=footer&fontSize=50)
