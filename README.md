@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20It's%20Adii%20here!&fontAlign=70&fontAlignY=40&color=gradient&section=header&fontSize=40)
 
 
-## 👋 Hi, I'm Aditya Ambati!
+## 👋 Hi, I'm Aditya Ambati !
 - 🎓 I’m currently pursuing a B.S in Data Science at **IIT Madras**.
 - 👀 I’m passionate about programming and data science.
 - 🌱 I’m continuously learning and exploring new technologies.
