@@ -7,6 +7,8 @@
 - 🌱 I’m continuously learning and exploring new technologies.
 - 📧 Reach me at 21f3000274@ds.study.iitm.ac.in
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Aditya!;Welcome+to+my+GitHub+Profile.;I+love+Open+Source+%F0%9F%92%BB;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
+
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ambati-611404257/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/adityambati/)
@@ -14,10 +16,12 @@
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=black)](https://twitter.com/adityambati)
 
 ## 📊 GitHub Stats:
+[![](https://github-profile-trophy.vercel.app/?username=adityambati&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=adityambati&theme=midnight-purple&hide_border=false" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityambati&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="49%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityambati&theme=midnight-purple&hide_border=false" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityambati&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="49%">
+    <img src="https://github-contributor-stats.vercel.app/api?username=adityambati&limit=5&theme=midnight-purple&hide_border=false&combine_all_yearly_contributions=true" width="49%">
 </div>
 
 ## 🛠️ Technologies & Tools:
@@ -38,6 +42,7 @@
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-%230A9EDC.svg?logo=pytest&logoColor=white)
 
 
 ## 💡 Projects & Contributions:
