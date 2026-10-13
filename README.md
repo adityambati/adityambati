@@ -5,7 +5,7 @@
 - 🎓 I’m a Data Science graduate from **IIT Madras**.
 - 👀 I’m passionate about programming, data science, machine learning and cloud technologies.
 - 🌱 I’m continuously learning and exploring new technologies.
-- 📧 Reach me at aaditya099@gmail.com
+- 📧 Reach out to me at aaditya0799@gmail.com
 
 
 ## 🌐 Connect with Me:
