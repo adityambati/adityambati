@@ -2,12 +2,11 @@
 
 
 ## 👋 Hi, I'm Aditya Ambati !
-- 🎓 I’m currently pursuing a B.S in Data Science at **IIT Madras**.
-- 👀 I’m passionate about programming and data science.
+- 🎓 I’m a Data Science graduate from **IIT Madras**.
+- 👀 I’m passionate about programming, data science, machine learning and cloud technologies.
 - 🌱 I’m continuously learning and exploring new technologies.
-- 📧 Reach me at 21f3000274@ds.study.iitm.ac.in
+- 📧 Reach me at aaditya099@gmail.com
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Aditya!;Welcome+to+my+GitHub+Profile.;I+love+Open+Source+%F0%9F%92%BB;Let's+connect+%F0%9F%92%AC" alt="Typing SVG" />
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ambati-611404257/)
@@ -46,10 +45,9 @@
 
 
 ## 💡 Projects & Contributions:
-- **Library Management System - V1:** A multi-user app for managing e-books, built with Flask, Python, SQLite, Jinja2 and Bootstrap.
 - **Library Management System - V2:** A multi-user app for managing e-books reminder notifications and perodic report generation, built with Flask, Vue.js, Celery and Redis.
 - **Automated Reporting System:** Implemented an automated system for generating and sending monthly activity reports.
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZG5lZGtyM3ZsczVmbWlrN2JmdHZ5NTNoaGM2ZnE0bXVhNXJobGVqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U8wCBLhkjNknS/giphy.gif" width="400"/>
+- **Senior Care App:** A multi-user webapp to help senior citizens manage their medication and appointment schedules and with features for caretakers.
+- **System Threat Forecaster - V2:** A production ready, end-to-end Machine Learning pipeline designed to detect Windows system malware and security vulnerabilities before they occur, using system data.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=200&text=O_O&fontAlign=70&fontAlignY=50&color=gradient&section=footer&fontSize=50)
